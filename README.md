@@ -1,1 +1,0 @@
-# gke-hello-world
