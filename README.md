@@ -15,5 +15,5 @@ npm install
 2. Jalankan project
 
 ```
-node app.js
+npm run start
 ```
